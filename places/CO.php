@@ -22,6 +22,7 @@ $places['CO'] = array(
         "Puerto Nariño",
         "Puerto Santander",
         "Tarapacá"
+	"Trapito"	
 		),
 	'ANT' => array(
         "Abejorral",
